@@ -44,3 +44,7 @@
 <hr />
 
 ## 8. <a name="supplemental">Supplemental Resources</a>
+
+* *[Install and Configure Active Directory (IBM Article)](https://www.ibm.com/docs/en/storage-scale-bda?topic=support-install-configure-active-directory)*
+* *[Active Directory Basics (TryHackMe Course)](https://tryhackme.com/room/winadbasics)*
+* *[Active Directory Domain Services (Microsoft Learn Course)](https://learn.microsoft.com/en-us/training/paths/active-directory-domain-services/)*
