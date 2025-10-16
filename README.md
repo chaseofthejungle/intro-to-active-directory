@@ -61,7 +61,12 @@
 
 ## 7. <a name="practices">Best Practices</a>
 
-(TODO)
+* Analyzing and consulting *Active Directory event logs*, configuring event and critical error alerts and implementing Event Viewer for domain controllers to observe essential logs (such as DNS Server and Directory Service logs).
+* Creating and maintaining *regular backups using backup automation tools* (e.g., Linux cron, Windows Task Scheduler).
+* Keeping Active Directory *servers maintained and regularly updated* (using tools such as Windows Update for domain controllers to apply patches/fixes, and performing routine maintenance outside of production hours).
+* Conducting *routine cleanup/maintenance*, such as auditing AD databases for data integrity and deleting accounts that are no longer necessary.
+* Using *role-based access control* to divide permissions and administrative tasks, reducing the impacts of compromised accounts.
+* Assuring that *robust password policies* are in use, applying solutions such as user awareness training and applicable group policies (e.g., password history, password complexity).
 
 <hr />
 
